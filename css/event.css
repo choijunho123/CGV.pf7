@@ -1,0 +1,47 @@
+section#event {
+  width: 1240px;
+  margin: 0 auto;
+  position: relative;
+}
+section#event div.wrap {
+}
+section#event div.wrap h2 {
+  position: absolute;
+  line-height: 0;
+  left: 45px;
+}
+section#event div.wrap div {
+
+}
+section#event div.wrap div ul.flextwo {
+  display: flex;
+  width: 100%;
+  gap: 100px;
+  padding-top: 35px;
+  text-align: center;
+  padding-left: 40px;
+}
+section#event div.wrap div ul.flextwo li {
+
+}
+section#event div.wrap div ul.flextwo li a {
+
+}
+section#event div.wrap div ul.flextwo li a figure {
+
+}
+section#event div.wrap div ul.flextwo li a figure img {
+
+}
+section#event div.wrap div ul.flextwo li a h3 {
+
+}
+section#event div.wrap div ul.flextwo li a p {
+
+}
+section#event div.wrap span {
+
+}
+section#event div.wrap span a {
+
+}
